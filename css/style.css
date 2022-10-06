@@ -1,0 +1,15 @@
+*{text-align: center}
+h2{color:chocolate}
+.ilk{color:aqua}
+.red{color:red}
+a{text-decoration: none;}   /* bu style ile link altındaki cizgiyi kaldırdık*/
+span{color:red;}
+
+.anabaslık{border: 2px solid blueviolet}  /* ana baslıga cerceve ekledik*/
+
+.kutu{background-color: darkred; width: 150px; height: 150px;} 
+.kutu2{background-color: aquamarine ; width: 150px; height: 150px; border :3px solid blue; border-radius: 150px;}
+/*     arka plan degisimi                                           ; etrafına cizgi cektik   ; cember yaptık*/
+
+
+/*yorum burada boyle*/
